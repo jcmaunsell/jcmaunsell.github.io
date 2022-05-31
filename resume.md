@@ -78,7 +78,7 @@ Interviewed 34 candidates for the system decomposition facet for the Palantir Fo
 **Mentor**
 Examples of mentoring include:
 - Mentored an intern with limited industry experience but strong capacity for growth (June-Sept 2021): 
-    *“Shoutout James for being the best mentor-- extremely supportive, always patient, and full of wisdom! I seriously learned so much from him this summer and had a blast working together.”*
+> “Shoutout James for being the best mentor-- extremely supportive, always patient, and full of wisdom! I seriously learned so much from him this summer and had a blast working together.”
 - Mentored a coworker in a non-software engineering role with strong engineering experience  to join the engineering team  (Jul. 2021-Mar. 2022)
 - Mentored a new hire with limited technical background, working with them to build problem-solving skills and showcase their strengths (Jan.-Mar. 2022)
 - Ramped up a new hire via intensive pair-programming (Nov. 2020-Feb. 2021)
