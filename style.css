@@ -1,1 +1,1 @@
-image[alt=icon] { width: "5px"; }
+image[src~="thumbnail"] { width: 25px; height:25px; }
