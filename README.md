@@ -1,4 +1,4 @@
-[Resumé](resume.md) • [Bio](bio.md)
+[**Resumé**](resume.md) • [**Bio**](bio.md)
 
 [Twitter](https://twitter.com/jcmaunsell) • [LinkedIn](https://www.linkedin.com/in/j-maunsell-2583a8103) 
 

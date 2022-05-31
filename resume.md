@@ -1,8 +1,12 @@
 # Resumé 
 
+[**Home**](README.md) • [**Bio**](bio.md)
+
+[Twitter](https://twitter.com/jcmaunsell) • [LinkedIn](https://www.linkedin.com/in/j-maunsell-2583a8103) • [Book time with me on Calendly](https://calendly.com/jcmaunsell)
+
 **J Maunsell** • they/them/theirs • Brooklyn, NY • [LinkedIn](https://www.linkedin.com/in/j-maunsell-2583a8103/) • [Twitter](https://twitter.com/jcmaunsell)
 
-[Download this resumé as a PDF](resume.pdf)
+[Download this resumé as a PDF](pdfs/J_Maunsell_Resume.pdf)
 
 ## Goals
 - Design robust backend architecture that enables empathetic user workflows
