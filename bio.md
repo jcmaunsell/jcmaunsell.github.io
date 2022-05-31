@@ -7,7 +7,6 @@
 I'm a backend engineer with specific expertise in code execution, compilers, and distributed systems.
 
 At MIT, I focused my coursework on compiler design, operating system engineering, and distributed system engineering.
-
 I worked on a C++ transpiler for an actor-based Scala framework as part of the MIT Programming Languages group.
 
 At Palantir, I worked on the Java backend for Code Workbooks, a Python, SQL and R coding environment orchestrated via Apache Spark on top of Kubernetes. 
