@@ -1,10 +1,10 @@
 [**Home**](README.md) • [**Bio**](bio.md)
 
-# Resumé 
-
 [Twitter](https://twitter.com/jcmaunsell) • [LinkedIn](https://www.linkedin.com/in/j-maunsell-2583a8103) • [Book time with me on Calendly](https://calendly.com/jcmaunsell)
 
-**J Maunsell** • they/them/theirs • Brooklyn, NY • [LinkedIn](https://www.linkedin.com/in/j-maunsell-2583a8103/) • [Twitter](https://twitter.com/jcmaunsell)
+# Resumé
+
+**J Maunsell** • they/them/theirs • Brooklyn, NY
 
 [Download this resumé as a PDF](pdfs/J_Maunsell_Resume.pdf)
 
