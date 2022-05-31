@@ -1,6 +1,6 @@
 ## J Maunsell
 
-![twitter](icons/Twitter.png) [@jcmaunsell](https://twitter.com/jcmaunsell) * [Resume](resume.md)
+![icon](icons/Twitter.png) [@jcmaunsell](https://twitter.com/jcmaunsell) • [Resume](resume.md)
 
 ### About me
 
