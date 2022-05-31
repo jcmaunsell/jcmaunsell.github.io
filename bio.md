@@ -15,4 +15,3 @@ I also had a lot of fun designing workflows to support users with a range of tec
 
 Later in my time at Palantir, I moved to the Production Infrastructure organization, where I worked in Go and Java on the deployment of Palantir services to air-gapped Kubernetes clusters.
 
-I love pair programming and working in teams. Software engineering is a social enterprise: by people, for people.
