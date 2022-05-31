@@ -1,4 +1,4 @@
-[Resume](resume.md) • [Twitter](https://twitter.com/jcmaunsell) • [GitHub](https://github.com/jcmaunsell) • [LinkedIn](https://www.linkedin.com/in/j-maunsell-2583a8103) • [Book time with me on Calendly](https://calendly.com/jcmaunsell)
+[Resumé](resume.md) • [Twitter](https://twitter.com/jcmaunsell) • [GitHub](https://github.com/jcmaunsell) • [LinkedIn](https://www.linkedin.com/in/j-maunsell-2583a8103) • [Book time with me on Calendly](https://calendly.com/jcmaunsell)
 
 ## About me
 
