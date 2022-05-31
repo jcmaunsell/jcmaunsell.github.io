@@ -1,1 +1,1 @@
-image[src~="thumbnail"] { width: 25px; height:25px; }
+image[src*="#thumbnail"] { width: 25px; height:25px; }
