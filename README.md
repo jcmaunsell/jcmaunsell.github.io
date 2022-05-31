@@ -1,8 +1,6 @@
-## J Maunsell
-
 [Resume](resume.md) • [Twitter](https://twitter.com/jcmaunsell) • [GitHub](https://github.com/jcmaunsell) • [LinkedIn](https://www.linkedin.com/in/j-maunsell-2583a8103)
 
-### About me
+## About me
 
 **I care about people.** At Palantir, I worked for three years in a fast-paced, imaginative environment that can be difficult to navigate, and I’ve taken every opportunity to mentor others and create spaces in which folks feel comfortable sharing what they don’t know – this is the only way to learn and work effectively. As global coordinator for transgender employees and New York coordinator for LGBTQ+ employees in general, I worked to ensure that community members feel safe, cared for, and free to share their identities. This line traces back to college, when I served as president of my dorm at MIT during a difficult period that ended with the dissolution of the community. I learned a difficult lesson: best intentions on all sides will not end happily without shared empathy. We cannot move forward as a society without compassion.
 
