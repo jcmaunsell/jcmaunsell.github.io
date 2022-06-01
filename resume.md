@@ -62,12 +62,12 @@ Interned on the Build Infrastructure team for the Gotham platform.
 **B.S. in Computer Science & Engineering** / Class of 2019
 Graduated from the Massachusetts Institute of Technology (GPA 4.8/5.0) with a concentration in French. 
 - Took graduate courses on computer systems engineering:
-- Built a Linux-style operating system in C from a thin skeleton
-- Wrote a Raft distributed key-value store in Go from the ground up
-- Designed and built a Bluetooth mesh network iOS messaging app using Swift
+  - Built a Linux-style operating system in C from a thin skeleton
+  - Wrote a Raft distributed key-value store in Go from the ground up
+  - Designed and built a Bluetooth mesh network iOS messaging app using Swift
 - Focused on compiler design, including:
-- Led a team to build and optimize a C-style compiler from scratch in Scala for a project class
-- Designed a cross-compiler from an actor-based Scala derivative to C, as part of a resource project with the MIT Programming Languages group
+  - Led a team to build and optimize a C-style compiler from scratch in Scala for a project class
+  - Designed a cross-compiler from an actor-based Scala derivative to C, as part of a resource project with the MIT Programming Languages group
 - Pursued political science from an analytical perspective, with specific interests in technology policy and in the role of race in crime politics
 - Elected president (Sept. 2016-Sept. 2017) of a dormitory under transition, working closely with administration to advocate for a community largely comprised of students from underrepresented groups
 - Elected Treasurer of the MIT Bitcoin Club (Sept. 2016-May 2017), collaborating with the MIT Digital Currency Initiative
