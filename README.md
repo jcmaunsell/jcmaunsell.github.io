@@ -4,5 +4,5 @@
 
 # Welcome
 
-I'm J, a backend software engineer based in Brooklyn, NY. I'm open to work – check out the links above to learn more about me.
+I'm J, a backend software engineer based in Brooklyn, NY. I work at Datadog on the Dashboards Backend team.
 
