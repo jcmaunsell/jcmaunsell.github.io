@@ -23,6 +23,14 @@
 
 ## Industry Experience
 
+### Datadog
+
+**Software Engineer II** / July 2022 - present
+
+*Dashboards Backend*
+
+Working in Python on product features and infrastructure for Datadog's core product, dashboards. Projects include implementation of a custom reporting feature for delivering snapshotted summaries of dashboards and other Datadog products.
+
 ### Palantir Technologies
 
 **Software Engineer** / Sept. 2019 – May 2022
