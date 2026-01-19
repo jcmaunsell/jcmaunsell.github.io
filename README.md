@@ -4,5 +4,5 @@
 
 # Welcome
 
-I'm J, a backend software engineer based in Brooklyn, NY. I work at Datadog on the Dashboards Backend team.
+I'm James, a backend software engineer based in Beacon, NY. I work at Datadog on the Reporting & Sharing team in the Graphing org.
 
