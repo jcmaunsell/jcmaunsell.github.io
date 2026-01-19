@@ -4,18 +4,14 @@
 
 # Resumé
 
-**J Maunsell** • they/them/theirs • Brooklyn, NY
-
-[Download this resumé as a PDF](pdfs/J_Maunsell_Resume.pdf)
+**James Maunsell** • he/they • Beacon, NY
 
 ## Goals
 - Design robust backend architecture that enables empathetic user workflows
-- Build software for an enterprise that helps people connect with and understand each other
 
 ## Skills
 - Fluent in Java, Go, Python, and Scala; familiarity with C and C++
 - Fluent in French
-- Spark, Kubernetes, YARN, Linux, macOS
 - Software deployment within a microservice architecture
 - Compilers and code execution infrastructure
 - Systems design including distributed networks and operating systems
@@ -25,11 +21,17 @@
 
 ### Datadog
 
-**Software Engineer II** / July 2022 - present
+**Senior Software Engineer** / Oct. 2025 - present
 
-*Dashboards Backend*
+*Graphing - Reporting & Sharing*
 
-Working in Python on product features and infrastructure for Datadog's core product, dashboards. Projects include implementation of a custom reporting feature for delivering snapshotted summaries of dashboards and other Datadog products.
+Owned and delivered CSV scheduled reports for [Log Explorer](https://docs.datadoghq.com/logs/reports/) and [Notebooks analysis cells](https://docs.datadoghq.com/notebooks/advanced_analysis/#schedule-a-csv-report). 
+
+**Software Engineer II** / July 2022 - Oct. 2025
+
+*Graphing - Reporting & Sharing*
+
+Built product features and infrastructure for Datadog's core product, dashboards. Built async pipeline for rendering PDF scheduled reports of dashboards.
 
 ### Palantir Technologies
 
